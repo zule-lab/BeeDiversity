@@ -1,0 +1,7 @@
+﻿Column name,Description,Type of data
+Site_label,Abbreviation for site name,Text
+Plot,"A unique number assigned to each replication at every site, between 1 and 8",Numerical (1-8)
+Plot_ID,A unique ID code for each plot (SamplingRound_SitePlot),Text
+Sampling_round,Sampling round out of a total of 5 sampling rounds that occurred over the course of the field season,Numerical
+Bee_richness,Bee species richness for each plot in a specific sampling round,Numerical
+Bee_abundance,Bee abundance for each plot in a specific sampling round,Numerical

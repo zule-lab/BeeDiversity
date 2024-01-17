@@ -1,0 +1,15 @@
+﻿Column name,Description,Type of data
+Date,Date each specimen was collected,Date
+Site,Name of the site each specimen was collected at,Text
+Site_label,Abbreviation for site name,Text
+Plot,"A unique number assigned to each replication at every site, between 1 and 8",Numerical (1-8)
+Plot_ID,A unique ID code for each plot (SamplingRound_SitePlot),Text
+Specimen,A unique number assigned to each specimen collected at each plot,Numerical
+Sampling_method,Method of collection. Sweep-netting labelled: net. Pan traps labelled: pan.,Text
+Family,"Taxonomic rank ""family"" for each specimen",Text
+Genus,"Taxonomic rank ""genus"" for each specimen",Text
+Species,"Taxonomic rank ""species"" for each specimen",Text
+Genus_species,Binomial scientific name of bee species,Text
+Sex,Sex of each specimen,Letter
+Sampling_round,Sampling round out of a total of 5 sampling rounds that occurred over the course of the field season,Numerical
+Unique_ID,"ID that is unique to every specimen, following the format: date_plot_specimen_sampling method_Genus_species",Text
