@@ -1,6 +1,7 @@
 # Variation in flower morphology associated with higher bee diversity in urban green spaces
 
-DOI
+[![DOI](https://zenodo.org/badge/744558831.svg)](https://zenodo.org/doi/10.5281/zenodo.10523096)
+
 
 ## Authors
 
